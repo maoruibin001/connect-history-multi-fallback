@@ -1,0 +1,30 @@
+{
+  "name": "connect-history-api-fallback",
+  "version": "1.0.0",
+  "description": "Provides a fallback for non-existing directories of multi page so that the HTML 5 history API can be used.",
+  "keyswords": [
+    "connect",
+    "html5",
+    "history api",
+    "fallback",
+    "multi-spa"
+  ],
+  "engines": {
+    "node": ">=0.8"
+  },
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bripkens/connect-history-api-fallback.git"
+  },
+  "author": {
+    "name": "maoruibin",
+    "email": "maoruibin@163.com",
+    "url": "https://github.com/maoruibin001"
+  },
+  "license": "MIT",
+  "_from": "connect-history-multi-fallback@1.0.0",
+}
