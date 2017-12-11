@@ -1,5 +1,5 @@
 {
-  "name": "connect-history-api-fallback",
+  "name": "connect-history-multi-fallback",
   "version": "1.0.0",
   "description": "Provides a fallback for non-existing directories of multi page so that the HTML 5 history API can be used.",
   "keyswords": [
@@ -26,5 +26,5 @@
     "url": "https://github.com/maoruibin001"
   },
   "license": "MIT",
-  "_from": "connect-history-multi-fallback@1.0.0",
+  "_from": "connect-history-multi-fallback@1.0.0"
 }
